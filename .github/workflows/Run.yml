@@ -1,4 +1,4 @@
-name: RUN_RDP
+name: RDP-GRATIS
 
 on: workflow_dispatch
 
