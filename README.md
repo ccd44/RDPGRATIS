@@ -7,7 +7,7 @@ Windows Remote Desktop Protocol connection.
 
 -create new repository secrets
 
--pergi ke www.dashboard.ngrok.com
+-pergi ke dashboard.ngrok.com
 
 -pergi ke your auth token
 
